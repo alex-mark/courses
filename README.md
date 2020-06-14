@@ -7,3 +7,6 @@
 
 ## Rust
 [Rust Crash Course](https://youtu.be/zF34dRivLOw)
+
+## Kubernetes
+[Kubernetes quick overview](https://www.youtube.com/watch?v=PH-2FfFD2PU)
