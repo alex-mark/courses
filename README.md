@@ -10,3 +10,6 @@
 
 ## Kubernetes
 [Kubernetes quick overview](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+
+## Operating Systems
+[BIOS, CMOS, UEFI](https://youtu.be/LGz0Io_dh_I)
