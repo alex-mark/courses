@@ -13,3 +13,5 @@
 
 ## Operating Systems
 [BIOS, CMOS, UEFI](https://youtu.be/LGz0Io_dh_I)
+
+[Motherboards](https://youtu.be/b2pd3Y6aBag)
