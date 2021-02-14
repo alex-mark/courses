@@ -5,6 +5,8 @@
 [Python Django Web Framework - Full Course](https://youtu.be/F5mRW0jo-U4)
 
 ## JS
+[PassportJS](https://github.com/jwalton/passport-api-docs)
+
 ### CSS
 [Flexbox Froggy](https://flexboxfroggy.com/)
 
